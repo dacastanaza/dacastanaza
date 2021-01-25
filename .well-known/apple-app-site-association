@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "MBZZ6SXG5S.com.dacastanaza.Avellana"
+        ],
+        "components": [
+          {
+            "/": "/avellana/oauth/callback"
+          }
+        ]
+      }
+    ]
+  }
+}
